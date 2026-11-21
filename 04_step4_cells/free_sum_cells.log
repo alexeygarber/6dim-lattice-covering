@@ -1,0 +1,93 @@
+Total candidates: 7
+Total closed by frame: 0
+Total certified: 4
+Total open remaining: 3 
+
+The only potential neighbors of sigma0 across the facet opposite to (1,0,0,0,0,0) are
+Simplex with vertices ((-1, 0, 0, 0, 1, 1), (0, 0, 0, 0, 0, 0), (0, 0, 0, 0, 0, 1), (0, 0, 0, 0, 1, 0), (0, 0, 0, 1, 0, 0), (0, 0, 1, 0, 0, 0), (0, 1, 0, 0, 0, 0))
+Simplex with vertices ((-1, 0, 0, 1, 0, 0), (0, 0, 0, 0, 0, 0), (0, 0, 0, 0, 0, 1), (0, 0, 0, 0, 1, 0), (0, 0, 0, 1, 0, 0), (0, 0, 1, 0, 0, 0), (0, 1, 0, 0, 0, 0))
+Simplex with vertices ((-1, -1, -1, 1, 1, 1), (0, 0, 0, 0, 0, 0), (0, 0, 0, 0, 0, 1), (0, 0, 0, 0, 1, 0), (0, 0, 0, 1, 0, 0), (0, 0, 1, 0, 0, 0), (0, 1, 0, 0, 0, 0))
+
+Total cases 2
+Case 0 maxdet =  5.137530500570972 vertex of the additional simplex next to sigma0 =  (-1, 0, 0, 0, 1, 1) Chosen from 2 options
+Case 1 maxdet =  5.196496806879109 vertex of the additional simplex next to sigma0 =  (-1, -1, -1, 1, 1, 1) Chosen from 1 options
+
+
+Working on vertex (-1, 0, 0, 0, 1, 1) . 2 copies. maxdet = 5.137530500570972
+Total candidates other than target for this case: 10
+Total closed by frame: 0
+Total certified: 5
+Total open remaining for this case: 5 
+
+
+Total candidates in this case up to symmetry: 3
+
+
+Working on candidate 0 for this case. 2 copies. maxdet = 4.406412031042452
+Total visited: 0 . Stack size:  1 . Working on these roots:  4e-06 seconds
+Total visited for candidate 0 for this case: 1
+Total certified: 11
+Total children: 12
+Total excluded by frame cutoff: 1
+Total duplicates: 0
+Maximal configuration size: 11
+
+
+Working on candidate 1 for this case. 2 copies. maxdet = 4.433115589699246
+Total visited: 0 . Stack size:  1 . Working on these roots:  4e-06 seconds
+Total visited for candidate 1 for this case: 1
+Total certified: 10
+Total children: 11
+Total excluded by frame cutoff: 1
+Total duplicates: 0
+Maximal configuration size: 11
+
+
+Working on candidate 2 for this case. 1 copies. maxdet = 4.542801538947534
+Total visited: 0 . Stack size:  1 . Working on these roots:  5e-06 seconds
+Total visited for candidate 2 for this case: 1
+Total certified: 8
+Total children: 8
+Total excluded by frame cutoff: 0
+Total duplicates: 0
+Maximal configuration size: 11
+
+
+Total time spent for this case:  4.131582 
+
+Working on vertex (-1, -1, -1, 1, 1, 1) . 1 copies. maxdet = 5.196496806879109
+Total candidates other than target for this case: 10
+Total closed by frame: 0
+Total certified: 7
+Total open remaining for this case: 3 
+
+
+Total candidates in this case up to symmetry: 2
+
+
+Working on candidate 0 for this case. 1 copies. maxdet = 4.542801541621184
+Total visited: 0 . Stack size:  1 . Working on these roots:  5e-06 seconds
+Total visited for candidate 0 for this case: 1
+Total certified: 8
+Total children: 8
+Total excluded by frame cutoff: 0
+Total duplicates: 0
+Maximal configuration size: 11
+
+
+Working on candidate 1 for this case. 2 copies. maxdet = 4.664621974850603
+Total visited: 0 . Stack size:  1 . Working on these roots:  5e-06 seconds
+Total visited for candidate 1 for this case: 11
+Total certified: 92
+Total children: 107
+Total excluded by frame cutoff: 5
+Total duplicates: 0
+Maximal configuration size: 15
+
+
+Total time spent for this case:  16.100112 
+
+All cases except target simplices have been discarded
+Conclusion: one free sum forces all neighboring free sums due to symmetries
+
+Total time: 22.216826 seconds

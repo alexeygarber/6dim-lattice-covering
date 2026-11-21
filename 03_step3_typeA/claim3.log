@@ -1,0 +1,20 @@
+Total candidates: 12
+Total closed by frame: 4
+Total certified: 0
+Total open remaining: 8 
+
+Total cases 1
+Case 0 maxdet =  4.584925863699293 vertex =  (-1, 0, -1, 1, 1, 1) attached to facet across [(1, 0, 0, 0, 0, 0)] Chosen from 8 options
+
+
+Working on vertex (-1, 0, -1, 1, 1, 1) with facet across {(1, 0, 0, 0, 0, 0)} . 8 copies. maxdet = 4.584925863699293
+Total visited: 0 . Stack size:  1 . Working on these roots:  4e-06 seconds
+Total visited for (-1, 0, -1, 1, 1, 1) : 1
+Total certified: 7
+Total children: 7
+Total excluded by frame cutoff: 0
+Total duplicates: 0
+Maximal configuration size: 6
+Total time spent:  0.524725 
+
+Total time: 2.868793 seconds

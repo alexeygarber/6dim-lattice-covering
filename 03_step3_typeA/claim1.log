@@ -1,0 +1,157 @@
+Total candidates: 39
+Total candidates other than target: 38
+Total closed by frame: 3
+Total certified: 12
+Total open remaining: 23 
+
+Total cases 7
+Case 0 maxdet =  4.651820855509524 vertex =  (1, 0, 0, -1, 1, 1) Chosen from 3 options
+Case 1 maxdet =  5.105019119178695 vertex =  (0, 0, 0, -1, 1, 0) Chosen from 2 options
+Case 2 maxdet =  5.653292706679739 vertex =  (1, 1, 0, -1, 1, -1) Chosen from 6 options
+Case 3 maxdet =  6.387312811845525 vertex =  (0, 0, 0, -1, 1, 1) Chosen from 1 options
+Case 4 maxdet =  7.000370953252853 vertex =  (1, 1, 1, -1, 0, -1) Chosen from 2 options
+Case 5 maxdet =  7.151641629342738 vertex =  (1, 0, 0, -1, 1, 0) Chosen from 6 options
+Case 6 maxdet =  8.643850173452133 vertex =  (1, 1, 0, -1, 0, 0) Chosen from 3 options
+
+
+Working on vertex (1, 0, 0, -1, 1, 1) . 3 copies. maxdet = 4.651820855509524
+Total visited: 0 . Stack size:  1 . Working on these roots:  4e-06 seconds
+Total visited for (1, 0, 0, -1, 1, 1) : 1
+Total certified: 21
+Total children: 23
+Total excluded by frame cutoff: 2
+Total duplicates: 0
+Maximal configuration size: 3
+Total time spent:  0.660862 
+
+Working on vertex (0, 0, 0, -1, 1, 0) . 2 copies. maxdet = 5.105019119178695
+Total visited: 0 . Stack size:  1 . Working on these roots:  4e-06 seconds
+Total visited for (0, 0, 0, -1, 1, 0) : 3
+Total certified: 45
+Total children: 64
+Total excluded by frame cutoff: 13
+Total duplicates: 4
+Maximal configuration size: 4
+Total time spent:  2.120704 
+
+Working on vertex (1, 1, 0, -1, 1, -1) . 6 copies. maxdet = 5.653292706679739
+Total visited: 0 . Stack size:  1 . Working on these roots:  5e-06 seconds
+Total visited for (1, 1, 0, -1, 1, -1) : 34
+Total certified: 437
+Total children: 493
+Total excluded by frame cutoff: 19
+Total duplicates: 4
+Maximal configuration size: 8
+Total time spent:  26.886309 
+
+Working on vertex (0, 0, 0, -1, 1, 1) . 1 copies. maxdet = 6.387312811845525
+Total visited: 0 . Stack size:  1 . Working on these roots:  3e-06 seconds
+Total visited: 100 . Stack size:  5 . Working on these roots:  78.183587 seconds
+Total visited for (0, 0, 0, -1, 1, 1) : 138
+Total certified: 1393
+Total children: 1599
+Total excluded by frame cutoff: 40
+Total duplicates: 29
+Maximal configuration size: 9
+Total time spent:  104.104427 
+
+Working on vertex (1, 1, 1, -1, 0, -1) . 2 copies. maxdet = 7.000370953252853
+Total visited: 0 . Stack size:  1 . Working on these roots:  3e-06 seconds
+Total visited: 100 . Stack size:  10 . Working on these roots:  78.806211 seconds
+Total visited: 200 . Stack size:  22 . Working on these roots:  167.440813 seconds
+Total visited: 300 . Stack size:  11 . Working on these roots:  252.004197 seconds
+Total visited: 400 . Stack size:  15 . Working on these roots:  334.230466 seconds
+Total visited: 500 . Stack size:  6 . Working on these roots:  412.344523 seconds
+Total visited: 600 . Stack size:  6 . Working on these roots:  489.198799 seconds
+Total visited for (1, 1, 1, -1, 0, -1) : 627
+Total certified: 6252
+Total children: 7141
+Total excluded by frame cutoff: 211
+Total duplicates: 52
+Maximal configuration size: 13
+Total time spent:  507.719081 
+
+Working on vertex (1, 0, 0, -1, 1, 0) . 6 copies. maxdet = 7.151641629342738
+Total visited: 0 . Stack size:  1 . Working on these roots:  3e-06 seconds
+Total visited: 100 . Stack size:  18 . Working on these roots:  84.256794 seconds
+Total visited: 200 . Stack size:  25 . Working on these roots:  167.824959 seconds
+Total visited: 300 . Stack size:  15 . Working on these roots:  237.784208 seconds
+Total visited: 400 . Stack size:  10 . Working on these roots:  307.087628 seconds
+Total visited for (1, 0, 0, -1, 1, 0) : 438
+Total certified: 4627
+Total children: 5221
+Total excluded by frame cutoff: 132
+Total duplicates: 25
+Maximal configuration size: 10
+Total time spent:  334.208356 
+
+Working on vertex (1, 1, 0, -1, 0, 0) . 3 copies. maxdet = 8.643850173452133
+Total visited: 0 . Stack size:  1 . Working on these roots:  7e-06 seconds
+Total visited: 100 . Stack size:  26 . Working on these roots:  75.141632 seconds
+Total visited: 200 . Stack size:  34 . Working on these roots:  163.306718 seconds
+Total visited: 300 . Stack size:  45 . Working on these roots:  260.659275 seconds
+Total visited: 400 . Stack size:  35 . Working on these roots:  417.351509 seconds
+Total visited: 500 . Stack size:  26 . Working on these roots:  510.409769 seconds
+Total visited: 600 . Stack size:  29 . Working on these roots:  590.43156 seconds
+Total visited: 700 . Stack size:  24 . Working on these roots:  665.197049 seconds
+Total visited: 800 . Stack size:  29 . Working on these roots:  743.32166 seconds
+Total visited: 900 . Stack size:  25 . Working on these roots:  829.035407 seconds
+Total visited: 1000 . Stack size:  38 . Working on these roots:  909.671344 seconds
+Total visited: 1100 . Stack size:  33 . Working on these roots:  995.393787 seconds
+Total visited: 1200 . Stack size:  33 . Working on these roots:  1073.972833 seconds
+Total visited: 1300 . Stack size:  30 . Working on these roots:  1159.809366 seconds
+Total visited: 1400 . Stack size:  14 . Working on these roots:  1237.255059 seconds
+Total visited: 1500 . Stack size:  31 . Working on these roots:  1335.864022 seconds
+Total visited: 1600 . Stack size:  30 . Working on these roots:  1424.771223 seconds
+Total visited: 1700 . Stack size:  32 . Working on these roots:  1521.408497 seconds
+Total visited: 1800 . Stack size:  30 . Working on these roots:  1619.888512 seconds
+Total visited: 1900 . Stack size:  22 . Working on these roots:  1708.423321 seconds
+Total visited: 2000 . Stack size:  45 . Working on these roots:  1798.011112 seconds
+Total visited: 2100 . Stack size:  46 . Working on these roots:  1895.765434 seconds
+Total visited: 2200 . Stack size:  55 . Working on these roots:  2003.275867 seconds
+Total visited: 2300 . Stack size:  43 . Working on these roots:  2097.755339 seconds
+Total visited: 2400 . Stack size:  48 . Working on these roots:  2285.100701 seconds
+Total visited: 2500 . Stack size:  36 . Working on these roots:  2382.103986 seconds
+Total visited: 2600 . Stack size:  50 . Working on these roots:  2489.989009 seconds
+Total visited: 2700 . Stack size:  38 . Working on these roots:  2594.209763 seconds
+Total visited: 2800 . Stack size:  36 . Working on these roots:  2691.194277 seconds
+Total visited: 2900 . Stack size:  37 . Working on these roots:  2779.245711 seconds
+Total visited: 3000 . Stack size:  35 . Working on these roots:  2862.530179 seconds
+Total visited: 3100 . Stack size:  39 . Working on these roots:  2955.216809 seconds
+Total visited: 3200 . Stack size:  38 . Working on these roots:  3050.598253 seconds
+Total visited: 3300 . Stack size:  36 . Working on these roots:  3148.620928 seconds
+Total visited: 3400 . Stack size:  32 . Working on these roots:  3250.844873 seconds
+Total visited: 3500 . Stack size:  35 . Working on these roots:  3347.258728 seconds
+Total visited: 3600 . Stack size:  38 . Working on these roots:  3442.184262 seconds
+Total visited: 3700 . Stack size:  35 . Working on these roots:  3530.362662 seconds
+Total visited: 3800 . Stack size:  26 . Working on these roots:  3619.584754 seconds
+Total visited: 3900 . Stack size:  34 . Working on these roots:  3715.316413 seconds
+Total visited: 4000 . Stack size:  31 . Working on these roots:  3814.344306 seconds
+Total visited: 4100 . Stack size:  33 . Working on these roots:  3910.536488 seconds
+Total visited: 4200 . Stack size:  24 . Working on these roots:  4002.738644 seconds
+Total visited: 4300 . Stack size:  26 . Working on these roots:  4095.788813 seconds
+Total visited: 4400 . Stack size:  28 . Working on these roots:  4190.633539 seconds
+Total visited: 4500 . Stack size:  25 . Working on these roots:  4282.083306 seconds
+Total visited: 4600 . Stack size:  15 . Working on these roots:  4369.172795 seconds
+Total visited: 4700 . Stack size:  10 . Working on these roots:  4441.562353 seconds
+Total visited: 4800 . Stack size:  15 . Working on these roots:  4517.705401 seconds
+Total visited: 4900 . Stack size:  27 . Working on these roots:  4614.630944 seconds
+Total visited: 5000 . Stack size:  18 . Working on these roots:  4698.720023 seconds
+Total visited: 5100 . Stack size:  18 . Working on these roots:  4789.21487 seconds
+Total visited: 5200 . Stack size:  10 . Working on these roots:  4871.989984 seconds
+Total visited: 5300 . Stack size:  22 . Working on these roots:  4969.929997 seconds
+Total visited: 5400 . Stack size:  12 . Working on these roots:  5065.979765 seconds
+Total visited: 5500 . Stack size:  10 . Working on these roots:  5157.252751 seconds
+Total visited: 5600 . Stack size:  6 . Working on these roots:  5240.789899 seconds
+Total visited: 5700 . Stack size:  12 . Working on these roots:  5337.560735 seconds
+Total visited: 5800 . Stack size:  9 . Working on these roots:  5433.743945 seconds
+Total visited: 5900 . Stack size:  7 . Working on these roots:  5525.640819 seconds
+Total visited for (1, 1, 0, -1, 0, 0) : 5916
+Total certified: 62425
+Total children: 69858
+Total excluded by frame cutoff: 1367
+Total duplicates: 151
+Maximal configuration size: 12
+Total time spent:  5540.88067 
+
+Total time: 6519.207117 seconds
