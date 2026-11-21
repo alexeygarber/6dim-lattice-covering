@@ -5,8 +5,7 @@ Date: November 20, 2026
 
 Computational details
 
-Section 7 of the paper
-
+Section 7 of the paper  
 [common/edges.py](common/edges.py) - Computes 17822 edges that do not violate the inertia bound for the standard simplex sigma0. See Lemma 7.1 of the paper.  
 [02_step2_types/01_apex.py](02_step2_types/01_apex.py) - Computes 23 types of facets (or neighbor apexes) compatible with the 17822 edges. See Lemma 7.2 of the paper.  
 [02_step2_types/02_types_ABCDE.py](02_step2_types/02_types_ABCDE.py) - Discards all but 5 types of facets using maxdet bound. See Lemma 7.3 of the paper.  
